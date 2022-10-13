@@ -43,8 +43,6 @@
 <h3>My Stats</h3>
 <img align="right" width="250" alt="Aqib Chattha's Dev Card" src="https://api.daily.dev/devcards/c3ac8afa77d5466cb5fc7328ae0b8d6a.png?r=euu">
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aqibchattha&theme=dark&background=000000)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aqibchattha&layout=compact&theme=vision-friendly-dark)
 
 <h2>🏆 My Trophies :</h2>
