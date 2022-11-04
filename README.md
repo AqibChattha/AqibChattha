@@ -27,6 +27,10 @@
 
 <h3>My Stats</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aqibchattha&theme=dark)](https://git.io/streak-stats)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aqibchattha&layout=compact&theme=vision-friendly-dark&align=right)
+|Stats />|Streak />|Languages />
+|---|---|---|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AqibChattha&theme=gruvbox)|[![GitHub Streak](https://streak-stats.demolab.com/?user=AqibChattha&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AqibChattha&theme=gruvbox)|
+
+---
 
 [![@aqibchattha's Holopin board](https://holopin.me/aqibchattha)](https://holopin.io/@aqibchattha)
