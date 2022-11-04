@@ -9,13 +9,14 @@
 <h3>About Me :</h3>
 <p>I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.</p>
 
-- 🌱 I’m currently learning **React and Laravel**
+- 🌱 Currently I’m starting to explore **Artificial Intelegence and Infromation Security**
 
 - 👯 I’m looking to collaborate on any complete python application with GUI
 
 - 👨‍💻 Some of my projects are available at [GitLab](https://gitlab.com/AqibChattha)
 
 - ⚡ In my free time I love reading tech articles or novels.
+
 
 ---
 
