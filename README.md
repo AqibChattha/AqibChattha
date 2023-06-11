@@ -1,6 +1,6 @@
 <!-- [![MasterHead](https://support.squarespace.com/hc/article_attachments/360000358267/gif-example4.gif)]() -->
 <h1 align="center">السلام عليكم 👋, Aqib Chattha here</h1>
-<h3 align="center">I'm a computer science learner having deep curiosity about future tech. I love to try and create new things.</h3>
+<h3 align="center">I'm a computer science enthusiet having deep curiosity about future tech. I love to try and create new things.</h3>
 
 ---
 
@@ -9,14 +9,7 @@
 <h3>About Me :</h3>
 <p>I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.</p>
 
-- 🌱 Currently I’m starting to explore **Artificial Intelegence and Infromation Security**
-
-- 👯 I’m looking to collaborate on any complete python application with GUI
-
-- 👨‍💻 Some of my projects are available at [GitLab](https://gitlab.com/AqibChattha)
-
-- ⚡ In my free time I love reading tech articles or novels.
-
+- 🌱 Currently I’m starting to explore **Web development and Next.js**
 
 ---
 
