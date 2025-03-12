@@ -1,12 +1,12 @@
-<h1 align="center">السلام عليكم 👋, Aqib Chattha here</h1>
-<h3 align="center">I'm a computer science enthusiet having deep curiosity about future tech. I love to try and create new things.</h3>
+<h1 align="center">Aqib Chattha</h1>
+<h3 align="center">I'm a enthusiet having deep curiosity about future tech. I love to try and create new things.</h3>
 
 ---
 
 <img align="right" alt="Coding" width="20%" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
 <h3>About Me :</h3>
-<p>I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.</p>
+<p>I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
 
 - 🌱 Currently I’m starting to explore **Web development**
 
