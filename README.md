@@ -2,7 +2,6 @@
 <h3 align="center">I'm a enthusiet having deep curiosity about future tech. I love to try and create new things.</h3>
 
 ---
-
 <img align="right" alt="Coding" width="20%" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
 <h3>About Me :</h3>
